@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Cheminformatic Scientist at MSD and doctoral student at the Department of Informatics and Chemistry at the University of Chemistry and Technology in Prague. Proud cheminformatician geek focused on drug design research. Interested in machine learning, data analysis, docking, molecular generators, image recognition... anything that requires a computer and represents a challenge somehow.
+Club Deportivo A. Soler, en Guardamar del Segura. 
+Dónde encontrarnos: [Contacto](https://asoler.github.io/contacto/) 
+Horarios: [Horarios](https://asoler.github.io/horario-precios/) 
+Precios: [Precios](https://asoler.github.io/horario-precios/) 
 
-
-
-
-**Personal interests:** `Travelling` - `Movies` - `Music` - `Science` - `Languages` - `Nature` - `Cooking` - `Hiking` - `Martial Arts` - `Board Games` - `Informatics` 
 

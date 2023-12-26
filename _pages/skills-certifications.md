@@ -6,18 +6,9 @@ redirect_from:
   - "/sk/"
 ---
 
-## 🛠 Skills  
+## 🏋️‍♀️ Cursos y certificados
 
-I try my best to be a better scientist and a better person every day. Therefore, I took several courses on improving my transferable skills. Such courses allowed me to collaborate with the National Technical Library ([NTK](https://www.techlib.cz/en/)) in several ocasions. Nowadays, I am part of the Expert Council of the National Centre for Information Support of Research, Development, and Innovation (NCIP) where we focus on the development of transferable skills for early career researchers.  
-  
-<img src='/images/TS_EURODOC.jpg'>  
-
-**Good Personal skills:** `Problem solving` - `Critical thinking` - `Interpersonal skills` - `Adaptability` - `Empathy` - `Collaboration` - `Teamwork`  
-**Not that good Personal skills:** `Leadership` - `Organization` - `Creativity`  
-
-## 🏋️‍♀️ Training courses and certifications 
-
-| Training | Institution | Year 
+| Curso | Institución | Año 
 | ------------- | ------------- | ------------- |
 | **SELF-CONFIDENCE: 40-minute Confidence & Self Esteem Guide** | Udemy | 2022
 | **Statistics for Data Science and Business Analysis** | Udemy | 2022
@@ -31,5 +22,4 @@ I try my best to be a better scientist and a better person every day. Therefore,
 
 
 
-
-[Back to CV](https://iagea.github.io/cv/)
+[Back to CV](https://asoler.github.io/cv/)

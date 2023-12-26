@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M. Isabel Agea"
+title                    : "Club Deportivo A. Soler"
 title_separator          : "-"
-name                     : &name "iagea"
+name                     : &name "asoler"
 description              : &description "personal description"
-url                      : https://iagea.github.io
+url                      : https://asoler.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iagea/iagea.github.io"
+repository               : "iagea/asoler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "M. Isabel Agea"
-  avatar           : "terraceo.jpg"
-  bio              : "A Spanish girl exploring the world since 1993. I completed my BS in Biotechnology in an attempt to understand the molecular mechanisms of life, my M.Sc. in Bioinformatics after falling in love with it. Nowadays, I am a PhD student in the field of Drug Design at the University of Chemistry and Technology in the amazing city of Prague. Passionate about science, puzzles, travelling, sports and beer."
-  location         : "Prague, Czech Republic"
-  employer         : #"University of Chemistry and Technology in Prague."
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=m+isabel+agea"
+  name             : "Club Deportivo A. soler"
+  avatar           : "logo_asoler.jpg"
+  bio              : "Club Deportivo fundado en 2005 especializado en artes marciales y entremiento funcional. Ana Maria Soler es una reconocida taekwondista y entrenadora personal con años de experiencia en la enseñanza de artes marciales para todas las edades."
+  location         : "Guardamar del Segura, Alicante"
+  employer         : 
+  pubmed           : 
   googlescholar    : 
-  email            : "misabelagea@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/M-Agea"
+  email            : "anasoler2005@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iagea"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "https://www.instagram.com/clubasoler/"
   impactstory      : 
   lastfm           :
-  linkedin         : "isabelagealorente"
-  orcid            : "https://orcid.org/0000-0002-3017-7742"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
